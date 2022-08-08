@@ -8,3 +8,4 @@ This program is a bot I built using python, for a Bowling game available at http
 
 ## How does the script work?
 I am using pyautogui to control the cursor, as well as find the image of the ball and use it to move the cursor on the ball.
+(Note:Currently the program is having detecting the first time the ball appears, so try to do play the first ball yourself and run the program for the rest of the turns.)
